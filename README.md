@@ -1,4 +1,4 @@
-# M365Scripts
+# M365 Scripts
 Suite of useful Powershell scripts for M365 tenant admins
 
 ## Exchange Online
