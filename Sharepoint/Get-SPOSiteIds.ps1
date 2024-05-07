@@ -41,4 +41,4 @@ Get-PnPTenantSite -Detailed | ? { $_.Template -eq "GROUP#0" } | Select Title, UR
     } Catch {
         Write-Error $Error[0]
     }
-}s
+}
